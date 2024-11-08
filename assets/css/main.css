@@ -781,6 +781,7 @@ section,
   font-family: var(--heading-font);
 }
 
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -788,7 +789,7 @@ section,
   width: 100%;
   min-height: 70vh;
   position: relative;
-  padding: 120px 0 120px 0;
+  padding: 100px 0 50px 0;
   display: flex;
   align-items: center;
 }
@@ -972,6 +973,7 @@ section,
     transform: translateY(-10px);
   }
 }
+
 
 /*--------------------------------------------------------------
 # About Section
