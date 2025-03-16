@@ -1748,3 +1748,23 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+/* Under Construction Section */
+.construction {
+  background-color: #cc9398;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.construction-text {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ff0019;
+  animation: blink 1.5s infinite alternate;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
